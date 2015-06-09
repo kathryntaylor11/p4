@@ -23,7 +23,7 @@ $('button:nth-child(2)').click( function(){
   
 
    // Hide Illustrations 
-  $('.ar').hide();
+  $('.AR').hide();
   $('.fan').hide();
   $('.comm').hide();
   $('.about').hide();
@@ -38,7 +38,7 @@ $('button:nth-child(3)').click( function(){
 
    // Hide Illustrations 
   $('.personal').hide();
-  $('.fan').hide();
+  $('.AR').hide();
   $('.comm').hide();
   $('.about').hide();
   // Show Photo
@@ -52,7 +52,7 @@ $('button:nth-child(4)').click( function(){
   
 
    // Hide Illustrations 
-  $('.ar').hide();
+  $('.AR').hide();
   $('.fan').hide();
   $('.fan').hide();
   $('.about').hide();
@@ -66,7 +66,7 @@ $('button:nth-child(5)').click( function(){
   
 
    // Hide Illustrations 
-  $('.ar').hide();
+  $('.AR').hide();
   $('.fan').hide();
   $('.comm').hide();
   $('.personal').hide();

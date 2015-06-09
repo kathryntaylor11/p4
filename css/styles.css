@@ -2,9 +2,7 @@
 YOUR STYLES
 *******************/
 
-img {
-	width: 500px;
-}
+
 
 body {
   margin: 10px;
@@ -35,11 +33,27 @@ button:hover {
   color: #FFFFFF;
 }
 
-/* Images */
+/* Img */
 
-img {
-	width: 100px;
-	height: 100px;
+.AR img {
+	height: 500px;
+	width: 700px;
+}
+
+.AR img:nth-child(7) {
+	height: 700px;
+	width: 500px;
+}
+
+.personal img {
+	width: 500px;
+	height: 700px;
+	
+}
+
+.comm img {
+	height: 700px;
+	width: 500px;
 }
 
 /********************
