@@ -2,6 +2,10 @@
 YOUR STYLES
 *******************/
 
+img {
+	width: 500px;
+}
+
 body {
   margin: 10px;
 }
