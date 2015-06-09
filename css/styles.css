@@ -1,0 +1,58 @@
+/********************
+YOUR STYLES
+*******************/
+
+body {
+  margin: 10px;
+}
+
+/* Button Styles */
+
+button {
+  border: 0 none;
+  border-radius: 2px 2px 2px 2px;
+  color: #fff;
+  background: none repeat scroll 0 0       #3388dd;
+  cursor: pointer;
+  display: inline;
+  font-size: 12px;
+  line-height: 20px;
+  padding: 10px;
+  text-transform: none;
+  transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -webkit-transition: all 0.3s ease 0s;
+  text-align: center;
+}
+  
+button:hover {
+  background: none repeat scroll 0 0 #000;
+  color: #FFFFFF;
+}
+
+/* Images */
+
+img {
+  margin: 10px;
+
+  
+}
+
+/********************
+MEDIA QUERIES
+*******************/
+
+/* Desktop */
+@media (min-width: 1200px) {
+
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+
+}
+
+/* Mobile */
+@media (min-width: 480px) {
+
+}
