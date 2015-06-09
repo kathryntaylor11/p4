@@ -36,24 +36,24 @@ button:hover {
 /* Img */
 
 .AR img {
-	height: 500px;
-	width: 700px;
+	height: 400px;
+	width: 600px;
 }
 
 .AR img:nth-child(7) {
-	height: 700px;
-	width: 500px;
+	height: 600px;
+	width: 400px;
 }
 
 .personal img {
-	width: 500px;
-	height: 700px;
+	width: 400px;
+	height: 600px;
 	
 }
 
 .comm img {
-	height: 700px;
-	width: 500px;
+	height: 600px;
+	width: 400px;
 }
 
 /********************
