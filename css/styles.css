@@ -9,20 +9,21 @@ body {
 /* Button Styles */
 
 button {
-  border: 0 none;
-  border-radius: 2px 2px 2px 2px;
-  color: #fff;
-  background: none repeat scroll 0 0       #3388dd;
-  cursor: pointer;
-  display: inline;
-  font-size: 12px;
-  line-height: 20px;
-  padding: 10px;
-  text-transform: none;
-  transition: all 0.3s ease 0s;
-  -moz-transition: all 0.3s ease 0s;
-  -webkit-transition: all 0.3s ease 0s;
-  text-align: center;
+	display: block;
+	  border: 0 none;
+	  border-radius: 2px 2px 2px 2px;
+	  color: #fff;
+	  background: none repeat scroll 0 0 #3388dd;
+	  cursor: pointer;
+	  display: inline;
+	  font-size: 12px;
+	  line-height: 20px;
+	  padding: 10px;
+	  text-transform: none;
+	  transition: all 0.3s ease 0s;
+	  -moz-transition: all 0.3s ease 0s;
+	  -webkit-transition: all 0.3s ease 0s;
+	  text-align: center;
 }
   
 button:hover {
@@ -33,9 +34,8 @@ button:hover {
 /* Images */
 
 img {
-  margin: 10px;
-
-  
+	width: 100px;
+	height: 100px;
 }
 
 /********************
