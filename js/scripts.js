@@ -8,7 +8,7 @@ $('button:nth-child(1)').click( function(){
   
    // Hide Illustrations 
   $('.personal').hide();
-  $('.fan').hide();
+  // $('.fan').hide();
   $('.comm').hide();
   $('.about').hide();
   // Show Photo
@@ -24,7 +24,7 @@ $('button:nth-child(2)').click( function(){
 
    // Hide Illustrations 
   $('.AR').hide();
-  $('.fan').hide();
+  // $('.fan').hide();
   $('.comm').hide();
   $('.about').hide();
   // Show Photo
@@ -32,29 +32,29 @@ $('button:nth-child(2)').click( function(){
 
 });
 
+// // Click Photo
+// $('button:nth-child(3)').click( function(){
+  
+
+//    // Hide Illustrations 
+//   $('.personal').hide();
+//   $('.AR').hide();
+//   $('.comm').hide();
+//   $('.about').hide();
+//   // Show Photo
+//   $('.fan').show();
+
+// });
+
+
 // Click Photo
 $('button:nth-child(3)').click( function(){
   
 
    // Hide Illustrations 
+  $('.AR').hide();
+  // $('.fan').hide();
   $('.personal').hide();
-  $('.AR').hide();
-  $('.comm').hide();
-  $('.about').hide();
-  // Show Photo
-  $('.fan').show();
-
-});
-
-
-// Click Photo
-$('button:nth-child(4)').click( function(){
-  
-
-   // Hide Illustrations 
-  $('.AR').hide();
-  $('.fan').hide();
-  $('.fan').hide();
   $('.about').hide();
   // Show Photo
   $('.comm').show();
@@ -62,12 +62,12 @@ $('button:nth-child(4)').click( function(){
 });
 
 // Click Photo
-$('button:nth-child(5)').click( function(){
+$('button:nth-child(4)').click( function(){
   
 
    // Hide Illustrations 
   $('.AR').hide();
-  $('.fan').hide();
+  // $('.fan').hide();
   $('.comm').hide();
   $('.personal').hide();
   // Show Photo
